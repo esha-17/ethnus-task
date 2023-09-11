@@ -1,0 +1,18 @@
+table{
+    background-color: whitesmoke;
+    text-align: left;
+    border-collapse:collapse;
+    font-family: 'Times New Roman', Times, serif;
+}
+th{
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.different{
+    background-color: green;
+    color: white;
+}
+.smokeColor{
+    background-color: gainsboro;
+}

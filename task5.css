@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(217, 193, 11);
+}
+.navBar a{
+    text-decoration: none;
+    width: 150px;
+    position: absolute;
+    background: linear-gradient(
+       to right,
+       white 90%,
+       black 10% 
+    );
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+a:hover{
+    color: purple;
+}
+
+#home{
+    top: 50px;
+}
+#musings{
+    top: 100px;
+}
+#town{
+    top: 150px;
+}
+#links{
+    top: 200px;
+}
+.intro{
+    padding-left: 200px;
+    color: purple;
+}
+.intro #italicFont{
+    font-style: italic;
+}

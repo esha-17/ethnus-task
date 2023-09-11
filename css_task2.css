@@ -1,0 +1,23 @@
+
+ul{
+    width: 100px;
+    
+    background-color: aqua;  
+    padding-inline-start: 0px;
+     
+}
+li{
+    padding-bottom: 5px;
+    padding-top: 1px;
+    
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background-color: goldenrod;
+    display: block;
+    padding-left: 10px;
+
+
+}

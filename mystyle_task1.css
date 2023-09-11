@@ -1,0 +1,15 @@
+table{
+    border-radius: 10px;
+}
+th{
+    padding-right: 100px;
+    padding-left: 0px;
+    text-align: left;
+    border-radius: 10px;
+    border-color: black;
+    padding-bottom: 3px;
+}
+.table{
+    padding-left: 50px;
+    padding-right: 50px;
+}
